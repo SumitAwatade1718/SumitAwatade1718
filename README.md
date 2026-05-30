@@ -7,7 +7,9 @@
 
 🎓 B.Tech Computer Science Engineering (2026)
 
-🏆 1st Rank Holder in First Year
+🏆 1st Rank Holder in First Year & Second Year
+
+🥇 Two-Time Project Presentation Competition Winner
 
 💻 Built Bulk Email Service Provider using PHP & MySQL
 
