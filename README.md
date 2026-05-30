@@ -15,25 +15,23 @@
 
 📫 Reach me at: awatadesumit1718@gmail.com
 
----
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/sumit-awatade-938622275/)
 
-[LeetCode](YOUR_LEETCODE_URL)
+[LeetCode](https://leetcode.com/u/sumit1718/)
 
 [GitHub](https://github.com/SumitAwatade1718)
 
----
+
 
 ## 🚀 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,javascript,bootstrap,git,github,vscode,c" />
+<img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,javascript,react,git,github,vscode,c" />
 </p>
 
----
 
 ## 📌 Projects
 
@@ -43,24 +41,30 @@
 - HTML Templates
 - Email Scheduling
 
-### 🏛️ Vitthal Mandir Donation System
-- Admin Panel
-- Reports & Analytics
-- Email Notifications
+### 🏥 Smart Health Monitoring System for Pandharpur
+- Real-time patient health monitoring
+- Health data collection and analysis
+- Emergency alert generation
+- User-friendly dashboard
+- Healthcare management support
 
 ### 🎓 Student Management System
 - CRUD Operations
 - PHP & MySQL
 
----
+## 💻 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/awatadesumit1718/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/awatadesumit1718?theme=dark&font=Karma&ext=heatmap)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitAwatade1718&show_icons=true)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitAwatade1718&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitAwatade1718&layout=compact)
+## 💻 Most Used Languages
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitAwatade1718&layout=compact&theme=radical)
+
 
 ## 🔥 GitHub Streak
 
