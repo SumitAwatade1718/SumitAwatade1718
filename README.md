@@ -60,15 +60,4 @@
 
 ![Problems Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Problems%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/sumit1718)
 
-## 📊 GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitAwatade1718&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitAwatade1718&layout=compact&theme=radical)
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SumitAwatade1718)
