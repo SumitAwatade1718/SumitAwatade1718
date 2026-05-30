@@ -54,9 +54,11 @@
 
 ## 💻 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/sumit1718/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-sumit1718-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/sumit1718/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sumit1718?theme=dark&font=Karma&ext=heatmap)
+
+![Problems Solved](https://img.shields.io/badge/dynamic/json?color=orange&label=Problems%20Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/sumit1718)
 
 ## 📊 GitHub Stats
 
