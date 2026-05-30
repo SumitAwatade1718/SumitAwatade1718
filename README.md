@@ -54,8 +54,9 @@
 
 ## 💻 LeetCode
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/awatadesumit1718/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/awatadesumit1718?theme=dark&font=Karma&ext=heatmap)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/sumit1718/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sumit1718?theme=dark&font=Karma&ext=heatmap)
 
 ## 📊 GitHub Stats
 
