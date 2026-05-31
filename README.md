@@ -5,7 +5,7 @@
 
 🌱 Currently learning Java, DSA and Spring Boot
 
-🎓 B.Tech Computer Science Engineering (2026)
+🎓 B.Tech Computer Science and Engineering (2026)
 
 🏆 1st Rank Holder in First Year & Second Year
 
