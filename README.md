@@ -50,7 +50,7 @@
 
 ### 🎓 Student Management System
 - CRUD Operations
-- PHP & MySQL
+- Angular & Node.Js
 
 ## 💻 LeetCode
 
