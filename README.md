@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Vilas Awatade</h1>
-<h3 align="center">Final Year B.Tech CSE Student | Java Developer | Web Developer</h3>
+<h3 align="center">Final Year B.Tech CSE Student | Java Developer | Full Stack Web Developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
